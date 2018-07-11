@@ -1,0 +1,1 @@
+Run go test ./tests to check all the scenarios
